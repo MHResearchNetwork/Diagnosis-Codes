@@ -14,6 +14,8 @@ These documents represent the universe of mental health diagnosis codes used by 
 
 * SAS datasets (zipped) mhrn_icd9_list.zip, mhrn_icd10_list.zip.  Note the flags "Remission," "Sequela", and "Billable."   Please make sure you understand these codes and exclude as appropriate for your work. (Billable=0 means codes that are incomplete and therefore not officially reimbursable but can provide useful information.)  Sequela and remission are climical terms; see ICD9data.com and ICD10data.com.
 
+* Alternatively, you can identify MHRN diagnoses using a format (MHRN_DX_FORMATS.sas)
+
 * ICD-9dx_macro.txt - this is provided for historical information.  It is not currently in use.  Use for reference only.
 
 Our work is continually evolving.  Historical snapshots are available for referencing our prior work.  Please make sure you are using the correct version for your needs, and always check the accuracy of our work and make sure it meets your needs before using.  (Citation request?)
