@@ -12,7 +12,9 @@ These documents represent the universe of mental health diagnosis codes used by 
 
 * MHRN2_Diagnosis list.xls is a human-readable compilation that was used for the descriptive analyses performed in MHRN II (2015-19.)  This has been implemented using a SAS macro, a format, and as a SAS dataset derived from the comma-delimited file below.  It has been implemented in ICD-9 and ICD-10 (beta).
 
-* SAS datasets (zipped) mhrn_icd9_list.zip, mhrn_icd10_list.zip.  Note the flags "Remission," "Sequela", and "Billable."   Please make sure you understand these codes and exclude as appropriate for your work. (Billable=0 means codes that are incomplete and therefore not officially reimbursable but can provide useful information.)  Sequela and remission are climical terms; see ICD9data.com and ICD10data.com.
+* SAS datasets (zipped) mhrn_icd9_list.zip, mhrn_icd10_list.zip.  Note the flags "Remission," "Sequela", and "Billable."   Please make sure you understand these codes and exclude as appropriate for your work. (Billable=0 means codes that are incomplete and therefore not officially reimbursable but can provide useful information.)  Sequela and remission are clinical terms; see ICD9data.com and ICD10data.com.
+
+* SAS datasets are also available in PDF format (for human reading) and text format (for cross-platform use.)
 
 * Alternatively, you can identify MHRN diagnoses using a format (MHRN_DX_FORMATS.sas)
 
