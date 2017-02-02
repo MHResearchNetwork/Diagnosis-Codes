@@ -476,3 +476,22 @@ Substance Abuse Disorder	3056	305.6	Nondependent cocaine abuse	0
 Substance Abuse Disorder	3057	305.7	Nondependent amphetamine or related acting sympathomimetic abuse	0
 Substance Abuse Disorder	3058	305.8	Nondependent antidepressant type abuse	0
 Substance Abuse Disorder	3059	305.9	Nondependent other mixed or unspecified drug abuse	0
+Substance Abuse Disorder	2918	291.8	Other specified alcohol-induced mental disorders	0
+Substance Abuse Disorder	3039	303.9	Other and unspecified alcohol dependence	0
+Dementia	2940	294.0	Amnestic disorder in conditinos classified elsewhere	
+Dementia	2941	294.1	Dementia in conditions classified elsewhere	
+Dementia	29410	294.10	Dementia in conditions classified elsewhere without behavioral disturb	
+Dementia	29411	294.11	Dementia in conditions classified elsewhere with behavioral disturbanc	
+Dementia	2942	294.2	Dementia unspecified	
+Dementia	29420	294.20	Dementia unspecified without behavioral disturbance	
+Dementia	29421	294.21	Dementia unspecified with behavioral disturbance	
+Dementia	2948	294.8	Other persistent mental disorders due to conditions classified elsewhe	
+Dementia	2949	294.9	Unspecified persistent mental disorders due to conditions classified e	
+Dementia	310	310	Specific nonpsychotic mental disorders due to brain damage	
+Dementia	3100	310.0	Frontal lobe syndrome	
+Dementia	3101	310.1	Personality change due to conditions classified elsewhere	
+Dementia	3102	310.2	Postconcussion syndrome	
+Dementia	3108	310.8	Other specified nonpsychotic mental disorders following organic brain	
+Dementia	31081	310.81	Pseudobulbar affect	
+Dementia	31089	310.89	Other specified nonpsychotic mental disorders following organic brain	
+Dementia	3109	310.9	Unspecified nonpsychotic mental disorder following organic brain damag	

@@ -3364,3 +3364,19 @@ Substance Abuse Disorder	F13.182	F13182	Sedative, hypnotic or anxiolytic abuse w
 Substance Abuse Disorder	F14.182	F14182	Cocaine abuse with cocaine-induced sleep disorder	0	0	1	0
 Substance Abuse Disorder	F14.982	F14982	Cocaine use, unspecified with cocaine-induced sleep disorder	0	0	1	0
 Substance Abuse Disorder	F15.982	F15982	Oth stimulant use, unsp w stimulant-induced sleep disorder	0	0	1	0
+Dementia	F01	F01	Vascular dementia	0	0	0	0
+Dementia	F01.5	F015	Vascular dementia	0	0	0	0
+Dementia	F02	F02	Dementia in other diseases classified elsewhere	0	0	0	0
+Dementia	F02.8	F028	Dementia in other diseases classified elsewhere	0	0	0	0
+Dementia	F02.80	F0280	Dementia in other diseases classified elsewhere without behavioral dis	0	0	1	0
+Dementia	F02.81	F0281	Dementia in other diseases classified elsewhere with behavioral distur	0	0	1	0
+Dementia	F04	F04	Amnestic disorder due to known physiological condition	0	0	1	0
+Dementia	F06.0	F060	Psychotic disorder with hallucinations due to known physiological cond	0	0	1	0
+Dementia	F06.8	F068	Other specified mental disorders due to known physiological condition	0	0	1	0
+Dementia	F07	F07	Personality change due to known physiological condition	0	0	0	0
+Dementia	F07.0	F070	Personality change due to known physiological condition	0	0	1	0
+Dementia	F07.8	F078	Other personality and behavioral disorders due to known physiological	0	0	0	0
+Dementia	F07.81	F0781	Postconcussional syndrome	0	0	1	0
+Dementia	F07.89	F0789	Other personality and behavioral disorders due to known physiological	0	0	1	0
+Dementia	F09	F09	Unspecified mental disorder due to known physiological condition	0	0	1	0
+Dementia	Dementia	F48.2	F482		0	0	1
