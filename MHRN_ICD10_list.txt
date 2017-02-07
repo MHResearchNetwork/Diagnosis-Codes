@@ -133,6 +133,7 @@ Dementia	F07.89	F0789	Other personality and behavioral disorders due to known ph
 Dementia	F07.9	F079	Unspecified personality and behavioral disorder due to known physiolog	0	0	1	0
 Dementia	F09	F09	Unspecified mental disorder due to known physiological condition	0	0	1	0
 Dementia	F48.2	F482	Pseudobulbar affect	0	0	1	0
+Dementia	F05	F05	Delirium due to known physiological condition	0	0	1	0
 Depressive Disorder	F32	F32	Major depressive disorder single episode	0	0	0	0
 Depressive Disorder	F32.0	F320	Major depressive disorder, single episode, mild	0	0	1	0
 Depressive Disorder	F32.1	F321	Major depressive disorder, single episode, moderate	0	0	1	0
