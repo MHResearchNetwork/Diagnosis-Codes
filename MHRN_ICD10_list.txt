@@ -1,48 +1,48 @@
 dx_class	ICD10_CD	ICD10_CD_NODOT	ICD10_LDESC	IsSubsequent	IsSequela	Billable	Remission
 Anxiety Disorder	F40	F40	Phobic anxiety disorders	0	0	0	0
 Anxiety Disorder	F40.0	F400	Agoraphobia	0	0	0	0
-Anxiety Disorder	F40.1	F401	Social phobias	0	0	0	0
-Anxiety Disorder	F40.2	F402	Specific (isolated) phobias	0	0	0	0
-Anxiety Disorder	F40.21	F4021	Animal type phobia	0	0	0	0
-Anxiety Disorder	F40.22	F4022	Natural environment type phobia	0	0	0	0
-Anxiety Disorder	F40.23	F4032	Blood/injection/injury type phobia	0	0	0	0
-Anxiety Disorder	F40.24	F4024	Situational type phobia	0	0	0	0
-Anxiety Disorder	F40.29	F4029	Other specified phobia	0	0	0	0
-Anxiety Disorder	F41	F41	Other anxiety disorders	0	0	0	0
-Anxiety Disorder	F42.2	F422	Mixed obsessional thoughts and acts	0	0	1	0
-Anxiety Disorder	F42.3	F423	Hoarding disorder	0	0	1	0
-Anxiety Disorder	F42.4	F424	Excoriation (skin-picking) disorder	0	0	1	0
-Anxiety Disorder	F42.8	F428	Other obsessive-compulsive disorder	0	0	1	0
-Anxiety Disorder	F42.9	F429	Obsessive-compulsive disorder unspecified	0	0	1	0
 Anxiety Disorder	F40.00	F4000	Agoraphobia, unspecified	0	0	1	0
 Anxiety Disorder	F40.01	F4001	Agoraphobia with panic disorder	0	0	1	0
 Anxiety Disorder	F40.02	F4002	Agoraphobia without panic disorder	0	0	1	0
+Anxiety Disorder	F40.1	F401	Social phobias	0	0	0	0
 Anxiety Disorder	F40.10	F4010	Social phobia, unspecified	0	0	1	0
 Anxiety Disorder	F40.11	F4011	Social phobia, generalized	0	0	1	0
+Anxiety Disorder	F40.2	F402	Specific (isolated) phobias	0	0	0	0
+Anxiety Disorder	F40.21	F4021	Animal type phobia	0	0	0	0
 Anxiety Disorder	F40.210	F40210	Arachnophobia	0	0	1	0
 Anxiety Disorder	F40.218	F40218	Other animal type phobia	0	0	1	0
+Anxiety Disorder	F40.22	F4022	Natural environment type phobia	0	0	0	0
 Anxiety Disorder	F40.220	F40220	Fear of thunderstorms	0	0	1	0
 Anxiety Disorder	F40.228	F40228	Other natural environment type phobia	0	0	1	0
+Anxiety Disorder	F40.23	F4032	Blood/injection/injury type phobia	0	0	0	0
 Anxiety Disorder	F40.230	F40230	Fear of blood	0	0	1	0
 Anxiety Disorder	F40.231	F40231	Fear of injections and transfusions	0	0	1	0
 Anxiety Disorder	F40.232	F40232	Fear of other medical care	0	0	1	0
 Anxiety Disorder	F40.233	F40233	Fear of injury	0	0	1	0
+Anxiety Disorder	F40.24	F4024	Situational type phobia	0	0	0	0
 Anxiety Disorder	F40.240	F40240	Claustrophobia	0	0	1	0
 Anxiety Disorder	F40.241	F40241	Acrophobia	0	0	1	0
 Anxiety Disorder	F40.242	F40242	Fear of bridges	0	0	1	0
 Anxiety Disorder	F40.243	F40243	Fear of flying	0	0	1	0
 Anxiety Disorder	F40.248	F40248	Other situational type phobia	0	0	1	0
+Anxiety Disorder	F40.29	F4029	Other specified phobia	0	0	0	0
 Anxiety Disorder	F40.290	F40290	Androphobia	0	0	1	0
 Anxiety Disorder	F40.291	F40291	Gynephobia	0	0	1	0
 Anxiety Disorder	F40.298	F40298	Other specified phobia	0	0	1	0
 Anxiety Disorder	F40.8	F408	Other phobic anxiety disorders	0	0	1	0
 Anxiety Disorder	F40.9	F409	Phobic anxiety disorder, unspecified	0	0	1	0
+Anxiety Disorder	F41	F41	Other anxiety disorders	0	0	0	0
 Anxiety Disorder	F41.0	F410	Panic disorder [episodic paroxysmal anxiety] without agoraphobia	0	0	1	0
 Anxiety Disorder	F41.1	F411	Generalized anxiety disorder	0	0	1	0
 Anxiety Disorder	F41.3	F413	Other mixed anxiety disorders	0	0	1	0
 Anxiety Disorder	F41.8	F418	Other specified anxiety disorders	0	0	1	0
 Anxiety Disorder	F41.9	F419	Anxiety disorder, unspecified	0	0	1	0
 Anxiety Disorder	F42	F42	Obsessive-compulsive disorder	0	0	1	0
+Anxiety Disorder	F42.2	F422	Mixed obsessional thoughts and acts	0	0	1	0
+Anxiety Disorder	F42.3	F423	Hoarding disorder	0	0	1	0
+Anxiety Disorder	F42.4	F424	Excoriation (skin-picking) disorder	0	0	1	0
+Anxiety Disorder	F42.8	F428	Other obsessive-compulsive disorder	0	0	1	0
+Anxiety Disorder	F42.9	F429	Obsessive-compulsive disorder unspecified	0	0	1	0
 Anxiety Disorder	F43.10	F4310	Post-traumatic stress disorder, unspecified	0	0	1	0
 Anxiety Disorder	F43.11	F4311	Post-traumatic stress disorder, acute	0	0	1	0
 Anxiety Disorder	F43.12	F4312	Post-traumatic stress disorder, chronic	0	0	1	0
@@ -123,6 +123,7 @@ Dementia	F03.9	F039	Unspecified dementia	0	0	1	0
 Dementia	F03.90	F0390	Unspecified dementia without behavioral disturbance	0	0	1	0
 Dementia	F03.91	F0391	Unspecified dementia with behavioral disturbance	0	0	1	0
 Dementia	F04	F04	Amnestic disorder due to known physiological condition	0	0	1	0
+Dementia	F05	F05	Delirium due to known physiological condition	0	0	1	0
 Dementia	F06.0	F060	Psychotic disorder with hallucinations due to known physiological cond	0	0	1	0
 Dementia	F06.8	F068	Other specified mental disorders due to known physiological condition	0	0	1	0
 Dementia	F07	F07	Personality change due to known physiological condition	0	0	0	0
@@ -133,7 +134,6 @@ Dementia	F07.89	F0789	Other personality and behavioral disorders due to known ph
 Dementia	F07.9	F079	Unspecified personality and behavioral disorder due to known physiolog	0	0	1	0
 Dementia	F09	F09	Unspecified mental disorder due to known physiological condition	0	0	1	0
 Dementia	F48.2	F482	Pseudobulbar affect	0	0	1	0
-Dementia	F05	F05	Delirium due to known physiological condition	0	0	1	0
 Depressive Disorder	F32	F32	Major depressive disorder single episode	0	0	0	0
 Depressive Disorder	F32.0	F320	Major depressive disorder, single episode, mild	0	0	1	0
 Depressive Disorder	F32.1	F321	Major depressive disorder, single episode, moderate	0	0	1	0
