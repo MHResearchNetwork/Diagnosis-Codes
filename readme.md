@@ -7,16 +7,16 @@ output: html_document
 
 The MHRN diagnosis lists represent the mental health diagnosis codes used by the Mental Health Research Network (MHRN.)  The lists are designed to be general-purpose and easy-to-use. Each code is assigned to one category only.  ALWAYS REVIEW BEFORE USING to make sure it meets your needs.  Some important caveats are listed below.
 
-###ICD-9 versus ICD-10:
+**ICD-9 versus ICD-10:**
 This document pertains to the ICD-10 list.  The ICD-9 list in this folder is the final version in use on September 30 2015.  If you are interested dementia and/or in continuity in a period spanning the transition, please refer to ICD_9_10_comparisonLists.zip or the expanded dementia package. 
 
-###For general "any mental health diagnosis" identification, we recommend:
+**For general "any mental health diagnosis" identification, we recommend:**
 * Remove codes flagged as "remission" (Remission=1)
 * Remove Injury/poisoning subset and Undetermined injury/poisoning from our list (dx_class not in ('Injury/Poisoning subset', 'Undetermined Injury/Poisoning')
 * If you are interested only in the "core"" diagnoses (see below) and not in Attention Deficit Disorder or Autism Spectrum Disorder, a simple alternative solution is to include anything in the range F0-F48, excepting nicotine disorders (F17.x) and remission codes (F1x.21)
 
  
-###Summary of inclusions:
+**Summary of inclusions:**
 1.  The following "core" diagnosis classes were vetted collaboratively my MHRN Investigators in ICD-9 and translated and tested in ICD-10:
 * Anxiety Disorder 
 * Attention Deficit Disorder
