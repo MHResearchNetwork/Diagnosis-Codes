@@ -4,7 +4,16 @@ author: "Chris Stewart"
 date: "March 31, 2018"
 output: html_document
 ---
+UPDATE 4/23/2020
 
+mhrn_dx_codes.zip has flags:
+ * "DSH" for definite self-harm (self-inflicted codes in ICD-10 ) 
+ * "PSH" for possibly self-inflicted (undetermined in ICD-10)  
+ * "SUI" for suicide ideation 
+Whether or not you include PSH is a project-specific decision.
+
+---
+Previous:
 The MHRN diagnosis lists contain ICD-10 codes we are using to identify self-harm and suicide attempt.  These were validated by chart review in ICD-9, but the process of validating these after the ICD-10 transition is not complete.
 
 **The algorithm we currently use is:**
