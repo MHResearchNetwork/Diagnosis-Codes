@@ -14,7 +14,7 @@ Whether or not you include PSH is a project-specific decision.
 
 ---
 Previous:
-The MHRN diagnosis lists contain ICD-9 and CD-10 codes we are using to identify self-harm and suicide attempt.  These were validated by chart review in ICD-9, but the process of validating these after the ICD-10 transition is not complete.  For now we recommend using only codes where DSH=1.
+The MHRN diagnosis lists contain ICD-9 and ICD-10 codes we are using to identify self-harm and suicide attempt.  These were validated by chart review in ICD-9, but the process of validating these after the ICD-10 transition is not complete.  For now we recommend using only codes where DSH=1.
 
 If you are working with pre-Oct 2015 data, see third reference below for the self-harm definition we used in 2015.
 
