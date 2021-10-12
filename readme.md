@@ -97,7 +97,7 @@ The CONTENTS Procedure
 2.  The following classes were added later on the advice of one or more investigators:                                   
 * Conduct/Disruptive Disorder          
 * Eating Disorder
-* Gender Identity Disorder
+* Transgender/Gender Dysphoria
 * Personality Disorder 
 
 3.  The following classes are related to our work on self-harm and suicide attempt.  Please refer to README_selfharm before using 
