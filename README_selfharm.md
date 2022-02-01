@@ -13,8 +13,9 @@ mhrn_dx_codes.zip has flags:
 Whether or not you include PSH is a project-specific decision.
 
 ---
-Previous:
-The MHRN diagnosis lists contain ICD-9 and ICD-10 codes we are using to identify self-harm and suicide attempt.  These were validated by chart review in ICD-9, but the process of validating these after the ICD-10 transition is not complete.  For now we recommend using only codes where DSH=1.
+
+*Update from Greg Simon 2/1/22:*
+Coding of injuries and poisonings changed significantly with the transition from ICD-9-CM to ICD-10-CM.  Chart reviews in MHRN health systems in the ICD-9 era found that more than 75% of injuries and poisonings coded as having “undetermined intent” had clinical text indicating self-harm intent.  Chart reviews after the transition to ICD-10 found the opposite – fewer than 25% of injuries and poisonings coded as “undetermined intent” had clinical text indicating self-harm intent.  So inclusion or exclusion of “undetermined intent” diagnoses in a specification of self-harm should depend on the time period considered.
 
 If you are working with pre-Oct 2015 data, see third reference below for the self-harm definition we used in 2015.
 
