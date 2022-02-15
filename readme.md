@@ -1,7 +1,7 @@
 
 
 **WHICH FILE DO YOU WANT?**
- * For a human-readable file, choose MHRN_dx_codes.xls or
+ * For a human-readable file, choose MHRN_DX_CODES_20210226.xlsx. It's in Diagnosis-Codes, accessible by the blue link above left.
  * For a SAS dataset, use mhrn_dx_codes[year].zip.  
  * For other platforms, there is text (csv) file,  MHRNdxcsv. 
 
