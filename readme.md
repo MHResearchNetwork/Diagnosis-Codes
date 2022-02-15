@@ -1,19 +1,21 @@
 
 
-**WHICH FILE DO YOU WANT?**
+# MHRN diagnosis codes: Which file do you want?
  * For a human-readable file, choose MHRN_DX_CODES_20210226.xlsx. It's in Diagnosis-Codes, accessible by the blue link above left.
  * For a SAS dataset, use mhrn_dx_codes[year].zip.  
- * For other platforms, there is text (csv) file,  MHRNdxcsv. 
+ * For other platforms, there is text (csv) file, mhrn_dx_codes[year].csv. 
 
-# Important Notes: 	
+ **Important Notes**: 	
 Select codes you want based on flags described below.
 * You may want to remove dementia (DEM) and/or all injury/poisoning codes (except perhaps definite and possible self-harm DSH/PSH)
 * You may want to remove remission(REM), subsequent(SUB) and sequelae(SEQ) codes
-*  To replicate the original investigator-veted classifications, use ICD9_10_QA=1 and ICD9_QA_CLASS as the category
+* If you are interested in self-harm/suicide attempt, please see 
 * If you are not in interested Attention Deficit Disorder or Autism Spectrum Disorder, a simple alternative solution is to include anything in the range F0-F48, excepting nicotine disorders (F17.x) and remission codes (F1x.21)
 * Acccidental causes of injury/poisoning have been added to this version.
-
-**Variable: label on  INPUT.MHRN_DX_CODES_2020           Observations:        51707    **        
+* A more complete dementia list including diagnoses outside of the F chapter, is also available in the expanded dementia package (note not updated since commit date).
+ 
+ **File Contents**: 	
+**Variable: label on  MHRN_DX_CODES_2020           Observations:        51707    **        
 
 * REV:	ICD-?-CM Revision (9/10)
 * CODE:	ICD-9 or 10 Code (no dot)
@@ -68,8 +70,6 @@ Select codes you want based on flags described below.
 * Schizophrenia Spectrum Disorder
 * Other Psychosis
 * Substance Abuse Disorder
-
-  \* *a more complete dementia list including diagnoses outside of the F chapter, is also available in the expanded dementia package (note not updated since commit date).*
 
 2.  The following classes were added later on the advice of one or more investigators:                                   
 * Conduct/Disruptive Disorder          
