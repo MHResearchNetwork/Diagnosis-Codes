@@ -34,7 +34,7 @@ Select codes you want based on flags described below.
 * PTS:	Post-traumatic stress disorder
 * EAT:	Eating disorder
 * PER:	Personality disorder
-* GEN:	Gender identity disorder
+* GEN:	Transgender/ gender dysphoria
 * ASD:	Autism spectrum disorder
 * PED:	Pediatric MH disorder
 * ADD:	Attention deficit disorder
