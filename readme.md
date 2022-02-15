@@ -1,17 +1,12 @@
----
-title: "README for Diagnosis list(s)"
-author: "Chris Stewart"
-date: "updated 1/12/2022"
-output: html_document
----
 
-The MHRN diagnosis lists represent the mental health and injury/poisoning diagnosis codes used by the Mental Health Research Network (MHRN.)  The lists are designed to be general-purpose and easy-to-use. Each code is assigned to one category only.  ALWAYS REVIEW BEFORE USING to make sure it meets your needs.  Some important caveats are listed below.
 
 **WHICH FILE DO YOU WANT?**
-If you are looking for a SAS dataset, use mhrn_dx_codes[year].zip.  If you prefer a text (csv) file, use MHRNdxcsv.zip.  MHRN_dx_codes.xlsx is primarily for review, but contains all the data as well.  
+ * For a human-readable file, choose MHRN_dx_codes.xls or
+ * For a SAS dataset, use mhrn_dx_codes[year].zip.  
+ * For other platforms, there is text (csv) file,  MHRNdxcsv. 
 
-We are currently using and maintaining the SAS dataset in **mhrn_dx_codes.zip** in this folder.
-Select codes you want based on flags described below.Notes: 	
+# Important Notes: 	
+Select codes you want based on flags described below.
 * You may want to remove dementia (DEM) and/or all injury/poisoning codes (except perhaps definite and possible self-harm DSH/PSH)
 * You may want to remove remission(REM), subsequent(SUB) and sequelae(SEQ) codes
 *  To replicate the original investigator-veted classifications, use ICD9_10_QA=1 and ICD9_QA_CLASS as the category
