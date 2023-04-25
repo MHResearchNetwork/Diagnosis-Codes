@@ -11,8 +11,6 @@ Select codes you want based on flags described below.
 * You may want to remove remission(REM), subsequent(SUB) and sequelae(SEQ) codes
 * If you are interested in self-harm/suicide attempt, please see https://github.com/MHResearchNetwork/Diagnosis-Codes/blob/master/README_selfharm.md
 * If you are not in interested Attention Deficit Disorder or Autism Spectrum Disorder, a simple alternative solution is to include anything in the range F0-F48, excepting nicotine disorders (F17.x) and remission codes (F1x.21)
-* Acccidental causes of injury/poisoning have been added to this version.
-* A more complete dementia list including diagnoses outside of the F chapter, is also available in the expanded dementia package (note not updated since commit date).
  
  **File Contents**: 	
 **Variable: label on  MHRN_DX_CODES_2023           Observations:        53021    **        
