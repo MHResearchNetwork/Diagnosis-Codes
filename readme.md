@@ -22,8 +22,8 @@ Select codes you want based on flags described below.
 * DESC:	Description (ICD-10: Long, ICD-9: Short)
 * MEN:	0/1 Mental disorder typically included in MHRN analyses
 * DEM:	Dementia
-* ALC:	Alcohol use disorder
-* DRU:	Drug use disorder
+* ALC:	Alcohol use disorder (not in remission)
+* DRU:	Drug use disorder (not in remission)
 * PSY:	Psychotic disorder or symptoms
 * SCH:	Schizophrenia spectrum disorder
 * OPD:	Other (non-schizophrenic) psychotic disorder
@@ -41,6 +41,7 @@ Select codes you want based on flags described below.
 * CON:	Conduct disorder
 * REM:	MH disorder in remission
 * SUI:	Suicidal ideation
+* NSH: Non-suicidal self-harm (NEW 2023)
 * DSH:	Definite self-harm (use in concert with INJ/POI event codes)
 * PSH:	Possible self-harm (use in concert with INJ/POI event codes)
 * ACC:	Accidental injury/poisoning (use in concert with INJ/POI event codes)
@@ -50,14 +51,13 @@ Select codes you want based on flags described below.
 * SMC:	Injury complications of surgical and medical care NEC
 * SUB:	Subsequent encounter
 * SEQ:	Sequela or late effects of original event
-* CMS[06-21]: 	Code+desc in 20XX CMS release
-* ICD9_10_QA:	Included in MHRN ICD9/10 QA (1/0)
-* ICD_QA_CLASS:	MHRN primary classification (use for default assignment to one class, not all codes included)
-* HEDISVS_MI:	Included in HEDIS 2019 Mental Illness Value Set (1/0)
-* HEDISVS_MH:	Included in HEDIS 2019 Mental Health Diagnosis Value Set (1/0)
-* HEDISVS_AOD: 	Included n HEDIS 2019 AOD Abuse and Dependence Value Set (1/0)
+* CMS[06-23]: 	Code+desc in 20XX CMS release
+
     
  HISTORICAL INFORMATION
+ 
+ICD9_10_QA, ICD_QA_CLASS, and HEDIS flags have been discontinued.
+HEDIS value sets are more readily available now: for KP employees, search sharepoint for "HEDIS value sets."  They can also be downloaded for free at https://store.ncqa.org/my-2023-quality-rating-system-qrs-hedis-value-set-directory.html
 
 **Summary of inclusions:**
 1.  The following "core" diagnosis classes were vetted collaboratively my MHRN Investigators in ICD-9 and translated and tested in ICD-10:
