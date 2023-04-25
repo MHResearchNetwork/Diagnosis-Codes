@@ -1,7 +1,7 @@
 
 
 # MHRN diagnosis codes: Which file do you want?
- * For a human-readable file, choose MHRN_DX_CODES_20210226.xlsx. It's in Diagnosis-Codes, accessible by the blue link above left.
+ * For a human-readable file, choose MHRN_DX_CODES_20230419.xlsx. It's in Diagnosis-Codes, accessible by the blue link above left.
  * For a SAS dataset, use mhrn_dx_codes[year].zip.  
  * For other platforms, there is text (csv) file, mhrn_dx_codes[year].csv. 
 
@@ -15,7 +15,7 @@ Select codes you want based on flags described below.
 * A more complete dementia list including diagnoses outside of the F chapter, is also available in the expanded dementia package (note not updated since commit date).
  
  **File Contents**: 	
-**Variable: label on  MHRN_DX_CODES_2020           Observations:        51707    **        
+**Variable: label on  MHRN_DX_CODES_2023           Observations:        53021    **        
 
 * REV:	ICD-?-CM Revision (9/10)
 * CODE:	ICD-9 or 10 Code (no dot)
