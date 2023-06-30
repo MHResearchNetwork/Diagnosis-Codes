@@ -4,7 +4,7 @@ author: "Chris Stewart"
 date: "March 31, 2018"
 output: html_document
 ---
-UPDATE 4/23/2020
+UPDATE 6/29/2023
 
 mhrn_dx_codes.zip has flags:
  * "DSH" for definite self-harm (self-inflicted codes in ICD-10 ) 
@@ -12,6 +12,7 @@ mhrn_dx_codes.zip has flags:
  * "SUI" for suicide ideation 
 Whether or not you include PSH is a project-specific decision.
 
+ICD-10 codes also indicate initial encounter, subsequent encounter, or sequelae.  The latter two are captured by the flags SUB and SEQ.  You may want to eliminate these codes to reduce double-counting.
 ---
 
 *Update from Greg Simon 2/1/22:*
