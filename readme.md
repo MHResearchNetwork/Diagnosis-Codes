@@ -1,9 +1,8 @@
 
 
 # MHRN diagnosis codes: Which file do you want?
- * For a human-readable file, choose MHRN_DX_CODES_20230419.xlsx. It's in Diagnosis-Codes, accessible by the blue link above left.
+ * For a human-readable file, choose the most recent  mhrn_dx_codes[year].csv.  It's in Diagnosis-Codes, accessible by the blue link above left.
  * For a SAS dataset, use mhrn_dx_codes[year].zip.  
- * For other platforms, there is text (csv) file, mhrn_dx_codes[year].csv. 
 
  **Important Notes**: 	
 Select codes you want based on flags described below.
@@ -13,7 +12,7 @@ Select codes you want based on flags described below.
 * If you are not in interested Attention Deficit Disorder or Autism Spectrum Disorder, a simple alternative solution is to include anything in the range F0-F48, excepting nicotine disorders (F17.x) and remission codes (F1x.21)
  
  **File Contents**: 	
-**Variable: label on  MHRN_DX_CODES_2023           Observations:        53021    **        
+**Variable: label on  MHRN_DX_CODES_2023           Observations:        53156    **        
 
 * REV:	ICD-?-CM Revision (9/10)
 * CODE:	ICD-9 or 10 Code (no dot)
@@ -49,7 +48,7 @@ Select codes you want based on flags described below.
 * SMC:	Injury complications of surgical and medical care NEC
 * SUB:	Subsequent encounter
 * SEQ:	Sequela or late effects of original event
-* CMS[06-23]: 	Code+desc in 20XX CMS release
+* CMS[06-24]: 	Code+desc in 20XX CMS release
 
     
  HISTORICAL INFORMATION
