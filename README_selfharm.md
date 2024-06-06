@@ -33,3 +33,29 @@ Changes in Coding of Suicide Attempts or Self-Harm With Transition From ICD-9 to
 Racial/Ethnic differences in health care visits made before suicide attempt across the United States
 Ahmedani et. al. 2015
 
+*Details*
+
+ICD-9: (icd9data.com seems to be down/gone so this is from Wikipedia)
+
+(E950–E959) Suicide and self-inflicted injury
+
+(E980–E989) Injury undetermined whether accidentally or purposely inflicted
+
+ICD-10:
+
+DSH includes:
+
+-T14.91, suicide attempt
+
+-anything with “intentional self-harm” in the label in the T range e.g.
+https://www.icd10data.com/ICD10CM/Codes/S00-T88/T36-T50/T36-
+
+-X range codes  X71-X83  Intentional self-harm
+
+PSH includes:
+
+-anything with “undetermined” in the label in the T range e.g. (see link above)
+
+-Y range codes: Y21-Y33  Event of undetermined intent
+
+
