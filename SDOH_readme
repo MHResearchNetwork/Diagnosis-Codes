@@ -1,0 +1,26 @@
+Social Determinants of Health and Adverse Life Event Diagnosis code list
+
+This is an inclusive superset of the ICD-9 and ICD-10 code lists sourced from:
+ICD-9: Torres et. al 2017 https://journals.lww.com/lww-medicalcare/fulltext/2017/09000/ICD_Social_Codes__An_Underutilized_Resource_for.2.aspx
+ICD-10: Elyse Llamocca to MHRN, 2022
+
+The codes and classifications did not map perfectly.  The final categories are:
+
+Abuse and neglect 
+Child welfare placement 
+Disappearance/death of family member
+Educational problems
+Employment or financial problems
+Exposure to violence
+Family alcohol/drug use
+Family disruption by separation/divorce
+Housing instability
+Legal issues
+Nonspecific psychosocial needs
+Other family problems
+Parent-child conflict
+Social environmental problem
+
+Please review the list carefully.  You may want to remove some codes.  For example, fot the antidepressant personalization
+project (Aug 2024) we decided to move PTSD and military deployment to new categories, remove institutional residence
+and codes relating to perpetrators.
