@@ -41,6 +41,7 @@ Select codes you want based on flags described below.
 * NSH: Non-suicidal self-harm (NEW 2023)
 * DSH:	Definite self-harm (use in concert with INJ/POI event codes)
 * PSH:	Possible self-harm (use in concert with INJ/POI event codes)
+* NSH: Non-suicidal self-harm
 * ACC:	Accidental injury/poisoning (use in concert with INJ/POI event codes)
 * INJ:	Injury
 * WOU:	Wound-type injury
@@ -49,6 +50,7 @@ Select codes you want based on flags described below.
 * SUB:	Subsequent encounter
 * SEQ:	Sequela or late effects of original event
 * CMS[06-24]: 	Code+desc in 20XX CMS release
+* HEDIS flags: code is present in HEDIS Mental Health Diagnosis, Mental Illess, or Alcohol abuse or Dependent Value sets
 
     
  HISTORICAL INFORMATION
@@ -80,6 +82,7 @@ HEDIS value sets are more readily available now: for KP employees, search sharep
 * Suicide Ideation                       
 * Injury/Poisoning subset 
 * Accidental Injury/Poisoning (new 2020)
+
 
 
 
